@@ -1,0 +1,6 @@
+E:\tianhao\HengDa\SQl\SQl\bin\Debug\SQl.exe.config
+E:\tianhao\HengDa\SQl\SQl\bin\Debug\SQl.exe
+E:\tianhao\HengDa\SQl\SQl\bin\Debug\SQl.pdb
+E:\tianhao\HengDa\SQl\SQl\obj\Debug\SQl.csprojResolveAssemblyReference.cache
+E:\tianhao\HengDa\SQl\SQl\obj\Debug\SQl.exe
+E:\tianhao\HengDa\SQl\SQl\obj\Debug\SQl.pdb
